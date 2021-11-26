@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Host View Controller-->
+        <!--Host View Controller--
         <scene sceneID="QiK-2x-7Tv">
             <objects>
                 <viewController id="0Vz-9K-i9E" customClass="HostViewController" customModule="Sample" customModuleProvider="target" sceneMemberID="viewController">
